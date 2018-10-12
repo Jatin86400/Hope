@@ -2,7 +2,6 @@
 <img src="https://github.com/Jatin86400/Hope/blob/master/hope%201.1.png"  width=200px height=66px>
 
 
-# Hope
 A Disaster Management App.
 
 *“Remember, Hope is a good thing, maybe the best of things, and no good thing ever dies!”
