@@ -30,5 +30,8 @@ There will be three special buttons:
 - **Mark me safe/unsafe**: If a person is trapped somewhere in the middle of a disaster than, he/she can share his/her location in the Spot-me map by pressing this button. Once he/she is safe, they can unmark their location by again pressing the button.  
 - **Emergency contacts**: This button will open up a page which contains all the emergency contacts such as ambulance, police station, fire station, Disaster management etc. 
 
-
+```
+Spot-me Map
+```
+<img src="https://github.com/Jatin86400/Hope/blob/master/spot-me%20map.jpg"  width=250px height=250px>
 
